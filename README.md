@@ -1,1 +1,1 @@
-# Knowledge-distialltion-in-LLMs-for-checkowrhty-statement-detection
+# Knowledge-distillation-in-LLMs-for-checkowrhty-statement-detection
