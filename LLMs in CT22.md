@@ -26,8 +26,8 @@
     </tr>
     <tr>
       <td></td><td>GPT-2</td>
-      <td colspan="4" style="text-align:center;">—</td>
-      <td colspan="4" style="text-align:center;">—</td>
+      <td style="background:#b2f0b2;">0.6465</td><td style="background:#b2f0b2;">0.2589</td><td style="background:#b2f0b2;"><strong>0.2176<strong></td><td   style="background:#b2f0b2;">0.1880</td>
+      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td><strong><strong></td><td></td>
     </tr>
     <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
@@ -41,8 +41,9 @@
     </tr>
     <tr>
       <td></td><td>GPT-2</td>
-      <td colspan="4" style="text-align:center;">—</td>
-      <td colspan="4" style="text-align:center;">—</td>
+      <td>0.7718</td><td>0.4720 </td><td style="background:#d3d3d3;"><strong>0.1997<strong></td><td>0.1266 </td>
+      <td></td><td></td><td style="background:#d3d3d3;"><strong><strong></td><td style="background:#b2f0b2;"></td>
+      
     </tr>
   </tbody>
 </table>
