@@ -17,7 +17,7 @@
     <tr>
       <td>Test</td><td>Llama-2-7b</td>
       <td style="background:#b2f0b2;">⭐0.8153</td><td style="background:#b2f0b2;">⭐0.5571</td><td style="background:#b2f0b2;"><strong>⭐0.6003<strong></td><td style="background:#b2f0b2;">⭐0.6393</td>
-      <td>0.7584</td><td>0.5455</td><td style="background:#d3d3d3;"><strong>0.5<strong></td><td>0.4615</td>
+      <td>0.8054</td><td>0.6667</td><td style="background:#d3d3d3;"><strong>0.5797<strong></td><td>0.5128</td>
     </tr>
     <tr>
       <td></td><td>Llama-3.2-1b</td>
@@ -32,7 +32,7 @@
     <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
       <td style="background:#b2f0b2;">⭐0.7944</td><td style="background:#b2f0b2;">⭐0.5652</td><td style="background:#b2f0b2;"><strong>⭐0.5693<strong></td><td style="background:#b2f0b2;">⭐0.5735</td>
-      <td style="background:#b2f0b2;">0.7979</td><td style="background:#b2f0b2;">0.6444</td><td><strong>0.333<strong></td><td>0.2248</td>
+      <td style="background:#b2f0b2;">0.8066</td><td style="background:#b2f0b2;">0.7045</td><td><strong>0.3584<strong></td><td>0.2403</td>
     </tr>
     <tr>
       <td></td><td>Llama-3.2-1b</td>
