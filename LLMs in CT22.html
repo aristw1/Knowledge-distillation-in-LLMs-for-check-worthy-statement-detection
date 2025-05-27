@@ -1,0 +1,51 @@
+
+<h3>LLMs in CT22 dataset</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Partition</th><th>Model</th>
+      <th colspan="4">Uncleaned Text</th><th colspan="4">Cleaned Text</th>
+    </tr>
+    <tr>
+      <th></th><th></th>
+      <th>Acc.</th><th>Prec.</th><th>F1</th><th>Rec.</th>
+      <th>Acc.</th><th>Prec.</th><th>F1</th><th>Rec.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Test</td><td>Llama-2-7b</td>
+      <td style="background:#b2f0b2;">0.8153</td><td style="background:#b2f0b2;">0.5571</td><td style="background:#b2f0b2;">0.6003</td><td style="background:#b2f0b2;">0.6393</td>
+      <td>0.7584</td><td>0.5455</td><td style="background:#d3d3d3;">0.5</td><td>0.4615</td>
+    </tr>
+    <tr>
+      <td></td><td>Llama-3.2-1b</td>
+      <td>0.6309</td><td>0.3462</td><td>0.3956</td><td>0.4615</td>
+      <td>0.5928</td><td>0.3537</td><td>0.4621</td><td style="background:#b2f0b2;">0.6667</td>
+    </tr>
+    <tr>
+      <td></td><td>GPT-2</td>
+      <td colspan="4" style="text-align:center;">—</td>
+      <td colspan="4" style="text-align:center;">—</td>
+    </tr>
+    <tr>
+      <td>Dev-Test</td><td>Llama-2-7b</td>
+      <td style="background:#b2f0b2;">0.7944</td><td style="background:#b2f0b2;">0.5652</td><td style="background:#b2f0b2;">0.5693</td><td style="background:#b2f0b2;">0.5735</td>
+      <td style="background:#b2f0b2;">0.7979</td><td style="background:#b2f0b2;">0.6444</td><td>0.333</td><td>0.2248</td>
+    </tr>
+    <tr>
+      <td></td><td>Llama-3.2-1b</td>
+      <td>0.7753</td><td>0.5</td><td style="background:#d3d3d3;">0.4267</td><td>0.3721</td>
+      <td>0.7631</td><td>0.4791</td><td style="background:#d3d3d3;">0.5416</td><td style="background:#b2f0b2;">0.6227</td>
+    </tr>
+    <tr>
+      <td></td><td>GPT-2</td>
+      <td colspan="4" style="text-align:center;">—</td>
+      <td colspan="4" style="text-align:center;">—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 8:</strong> Performance of LLMs in CT22 dataset in test and dev-test set.</p>
+
