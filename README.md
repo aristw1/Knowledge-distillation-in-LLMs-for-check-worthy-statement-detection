@@ -18,6 +18,28 @@ This project explores how large language models can help identify whether a stat
 
 * **Evaluation Metrics**: The primary focus is on the **F1 score** for the positive class, which reflects how well the model identifies check-worthy claims. Additional metrics like **accuracy**, **precision** and **recall** are also used to give a broader view of performance.
 
+### Models Evaluated
+
+#### CT24 Dataset (Political Debates)
+
+So far, the following models have been fine-tuned and evaluated on CT24 dataset:
+- **LLaMA 2 (7B)**
+- **LLaMA 3.2 (1B)**
+- **GPT-2**
+- **TinyLLaMA**
+
+These models were selected to explore the effectiveness of instruction-tuned LLMs of varying sizes in detecting check-worthy statements from political debate transcripts.
+
+#### CT22 Dataset (COVID-19 Tweets)
+
+The same set of models has also been tested on the CT22 dataset. However, initial results indicated lower performance on this dataset compared to CT24. This highlights the challenges posed by social media text, such as shorter context, noisier language, and topic variability.
 
 
-So far, the following models have been fine-tuned and evaluated:
+### Current Focus: Transformer-based Classification Models
+
+To address the lower performance on the CT22 dataset, the project is now shifting focus to classification-oriented transformer models. Specifically:
+
+- Testing various **RoBERTa**-based models (e.g., `roberta-base`, `roberta-large` etc)
+- Expanding evaluation to include other transformer models designed for sentence-level classification, such as **BERT** and similar architectures
+
+These models are well-suited for tasks with limited labeled data and are expected to offer more stable performance on noisy, social media-style inputs.
