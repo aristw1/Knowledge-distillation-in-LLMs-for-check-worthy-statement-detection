@@ -4,13 +4,13 @@
 |-----------|----------------------------|-------------------|----------|-----------|----------|--------|
 | Test      | Nithiwat/mdeberta-v3-base_claim-detection  | mDeBERTa-v3-base  |0.6230 |  0.4013   |**0.5634**| 0.9201|
 |           | whispAI/ClaimBuster-DeBERTaV2 | DeBERTa-v2     |     |      |****     |   |
-|           | bert-base-uncased          | BERT-base         |     |      |    **** |   |
+|           | bert-base-uncased          | BERT-base         |  0.5110   | 0.3404     |    **0.4911** |  0.8465 |
 |           | roberta-base               | RoBERTa           |     |      |     ****|  |
 |           | xlm-roberta-base           | XLM-RoBERTa-base  |     |      |     ****|   |
 |           | eskimo7/distilbert-tweets       | DistilBERT  |0.53465     |0.4132      |     **0.5401**| 0.7718  |
 | Dev-Test  | Nithiwat/mdeberta-v3-base_claim-detection  | mDeBERTa-v3-base  | 0.8420|0.6330      |**0.6604** | 0.6821  |
 |           | whispAI/ClaimBuster-DeBERTaV2 | DeBERTa-v2     |     |      | ****    |   |
-|           | bert-base-uncased          | BERT-base         |     |      |    **** |   |
+|           | bert-base-uncased          | BERT-base         |  0.7503   | 0.4712     |    **0.6005** | 0.8210  |
 |           | roberta-base               | RoBERTa           |     |      |    **** |   |
 |           | xlm-roberta-base           | XLM-RoBERTa-base  |    |      |     ****|   |
 |           |eskimo7/distilbert-tweets   | DistilBERT        | 0.7713   | 0.5021     |         **0.6231**|0.8221|
