@@ -35,7 +35,7 @@ These models were selected to explore the effectiveness of instruction-tuned LLM
 The same set of models has also been tested on the CT22 dataset. However, initial results indicated lower performance on this dataset compared to CT24. This highlights the challenges posed by social media text, such as shorter context, noisier language, and topic variability.
 
 
-### Current Focus: Transformer-based Classification Models
+### Transformer-based Classification Models for CT22 dataset
 
 To address the lower performance on the CT22 dataset, the project is now shifting focus to classification-oriented transformer models. Specifically:
 
@@ -43,3 +43,12 @@ To address the lower performance on the CT22 dataset, the project is now shiftin
 - Expanding evaluation to include other transformer models designed for sentence-level classification, such as **BERT** and similar architectures
 
 These models are well-suited for tasks with limited labeled data and are expected to offer more stable performance on noisy, social media-style inputs.
+
+
+
+
+### Knowledge Distillation
+
+knowledge distillation is implemented for fine-tuning a student language model using supervision from a larger, pre-trained teacher model (LLaMA 2 (7B)). The training process leverages both hard labels (ground truth) and soft labels (teacher predictions) to guide the student model. Prompts are constructed to evaluate the check-worthiness of input statements, and training is performed using a hybrid loss function that combines cross-entropy loss on true labels with Kullback-Leibler (KL) divergence on the teacher’s softened logits. The student model learns to mimic the teacher’s behavior by aligning its output probability distribution with that of the teacher, effectively capturing the richer, more nuanced information embedded in the teacher’s predictions. To enhance efficiency, both models are loaded using 4-bit quantization with LoRA-based parameter-efficient fine-tuning (PEFT).
+
+
