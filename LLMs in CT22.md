@@ -31,6 +31,12 @@
       <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
     </tr>
     <tr>
+       <tr>
+      <td></td><td>TinyLlama</td>
+      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"><strong></strong></td><td style="background:#b2f0b2;"></td>
+      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
+    </tr>
+    <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
       <td style="background:#b2f0b2;">⭐0.7944</td><td style="background:#b2f0b2;">⭐0.5652</td><td style="background:#b2f0b2;"><strong>⭐0.5693</strong></td><td style="background:#b2f0b2;">⭐0.5735</td>
       <td style="background:#b2f0b2;">0.8066</td><td style="background:#b2f0b2;">0.7045</td><td><strong>0.3584</strong></td><td>0.2403</td>
@@ -45,6 +51,13 @@
       <td>0.7718</td><td>0.4720</td><td style="background:#d3d3d3;"><strong>0.1997</strong></td><td>0.1266</td>
       <td></td><td></td><td></td><td style="background:#b2f0b2;"></td>
     </tr>
+    <tr>
+      <td></td><td>TinyLlama</td>
+      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"><strong></strong></td><td style="background:#b2f0b2;"></td>
+      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
+    </tr>
+
+    
   </tbody>
 </table>
 
