@@ -33,7 +33,7 @@
     <tr>
        <tr>
       <td></td><td>TinyLlama</td>
-      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"><strong></strong></td><td style="background:#b2f0b2;"></td>
+      <td style="background:#b2f0b2;">0.6309</td><td style="background:#b2f0b2;">0.2647</td><td style="background:#b2f0b2;"><strong>0.2466</strong></td><td style="background:#b2f0b2;">0.2308</td>
       <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
     </tr>
     <tr>
