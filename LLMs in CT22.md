@@ -49,7 +49,7 @@
     <tr>
       <td></td><td>GPT-2</td>
       <td>0.7718</td><td>0.4720</td><td style="background:#d3d3d3;"><strong>0.1997</strong></td><td>0.1266</td>
-      <td></td><td></td><td></td><td style="background:#b2f0b2;"></td>
+      <td>0.7300</td><td>0.1579</td><td style="background:#d3d3d3;"><strong>0.1107</strong></td><td>0.1003</td>
     </tr>
     <tr>
       <td></td><td>TinyLlama</td>
