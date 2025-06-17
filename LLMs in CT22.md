@@ -34,7 +34,7 @@
        <tr>
       <td></td><td>TinyLlama</td>
       <td style="background:#b2f0b2;">0.6309</td><td style="background:#b2f0b2;">0.2647</td><td style="background:#b2f0b2;"><strong>0.2466</strong></td><td style="background:#b2f0b2;">0.2308</td>
-      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
+      <td>0.6398</td><td>0.3692</td><td style="background:#d3d3d3;"><strong>0.4404</strong></td><td>0.5470</td>
     </tr>
     <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
