@@ -28,7 +28,7 @@
     <tr>
       <td></td><td>GPT-2</td>
       <td style="background:#b2f0b2;">0.6465</td><td style="background:#b2f0b2;">0.2589</td><td style="background:#b2f0b2;"><strong>0.2176</strong></td><td style="background:#b2f0b2;">0.1880</td>
-      <td style="background:#b2f0b2;"></td><td style="background:#b2f0b2;"></td><td></td><td></td>
+     <td>0.6395</td><td>0.2819</td><td style="background:#d3d3d3;"><strong>0.1594</strong></td><td>0.1111</td>
     </tr>
     <tr>
        <tr>
