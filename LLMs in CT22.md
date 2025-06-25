@@ -36,6 +36,11 @@
       <td style="background:#b2f0b2;">0.6309</td><td style="background:#b2f0b2;">0.2647</td><td style="background:#b2f0b2;"><strong>0.2466</strong></td><td style="background:#b2f0b2;">0.2308</td>
       <td>0.6398</td><td>0.3692</td><td style="background:#d3d3d3;"><strong>0.4404</strong></td><td>0.5470</td>
     </tr>
+     <tr>
+      <td></td><td>Microsoft/phi-2</td>
+      <td style="background:#b2f0b2;">0.6935</td><td style="background:#b2f0b2;">0.4383</td><td style="background:#b2f0b2;"><strong>0.5090</strong></td><td style="background:#b2f0b2;">0.6068</td>
+      <td></td><td></td><td style="background:#d3d3d3;"><strong></strong></td><td></td>
+    </tr>
     <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
       <td style="background:#b2f0b2;">⭐0.7944</td><td style="background:#b2f0b2;">⭐0.5652</td><td style="background:#b2f0b2;"><strong>⭐0.5693</strong></td><td style="background:#b2f0b2;">⭐0.5735</td>
@@ -55,6 +60,11 @@
       <td></td><td>TinyLlama</td>
       <td style="background:#b2f0b2;">0.7619</td><td style="background:#b2f0b2;">0.4112</td><td style="background:#b2f0b2;"><strong>0.2053</strong></td><td style="background:#b2f0b2;">0.1370</td>
      <td>0.7497</td><td>0.4273</td><td style="background:#d3d3d3;"><strong>0.3745</strong></td><td>0.3333</td>
+    </tr>
+     <tr>
+      <td></td><td>Microsoft/phi-2</td>
+      <td style="background:#b2f0b2;">0.8142</td><td style="background:#b2f0b2;">0.6382</td><td style="background:#b2f0b2;"><strong>0.4921</strong></td><td style="background:#b2f0b2;">0.4005</td>
+      <td></td><td></td><td style="background:#d3d3d3;"><strong></strong></td><td></td>
     </tr>
 
     
