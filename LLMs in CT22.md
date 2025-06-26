@@ -39,7 +39,7 @@
      <tr>
       <td></td><td>Microsoft/phi-2</td>
       <td style="background:#b2f0b2;">0.6935</td><td style="background:#b2f0b2;">0.4383</td><td style="background:#b2f0b2;"><strong>0.5090</strong></td><td style="background:#b2f0b2;">0.6068</td>
-      <td></td><td></td><td style="background:#d3d3d3;"><strong></strong></td><td></td>
+      <td>0.6846</td><td>0.4310</td><td style="background:#d3d3d3;"><strong>0.5155</strong></td><td>0.6410</td>
     </tr>
     <tr>
       <td>Dev-Test</td><td>Llama-2-7b</td>
@@ -64,7 +64,7 @@
      <tr>
       <td></td><td>Microsoft/phi-2</td>
       <td style="background:#b2f0b2;">0.8142</td><td style="background:#b2f0b2;">0.6382</td><td style="background:#b2f0b2;"><strong>0.4921</strong></td><td style="background:#b2f0b2;">0.4005</td>
-      <td></td><td></td><td style="background:#d3d3d3;"><strong></strong></td><td></td>
+      <td>0.7927</td><td>0.5463</td><td style="background:#d3d3d3;"><strong>0.4979</strong></td><td>0.4574</td>
     </tr>
 
     
