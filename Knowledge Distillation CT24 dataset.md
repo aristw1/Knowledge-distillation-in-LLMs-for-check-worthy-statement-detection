@@ -1,3 +1,9 @@
+### Performance  of LLama2-7b-hf
+| Dataset   | Accuracy | Precision | F1 | Recall |                                                              
+|-----------|----------|----------|-----------|--------|              
+| Test  |  0.9091|   0.8202  | **0.8249**    | 0.8295  |              
+|  Dev-Test  |0.9151   | 0.9010  | **0.8707**   | 0.8426   | 
+
 ### Distillation Setup
 - Teacher: `LLaMA2-7B-hf`
 - Student: `TinyLLaMA-Chat`
