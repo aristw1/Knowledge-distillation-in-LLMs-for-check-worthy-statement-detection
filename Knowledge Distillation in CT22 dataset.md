@@ -1,8 +1,11 @@
-### Performance  of LLama2-7b-hf
-| Dataset   | Accuracy | Precision | F1 | Recall |                                                              
-|-----------|----------|----------|-----------|--------|              
-| Test  |  |     | ****    |   |              
-|  Dev-Test  |   |   | ****   |    | 
+
+### Performance  of LLama2-7b-hf 
+| Dataset    |        Uncleaned Text         |                           |           |                |        Cleaned Text          |                           |           |                |
+|------------|-------------------------------|---------------------------|-----------|----------------|------------------------------|---------------------------|-----------|----------------|
+|            | Accuracy                      | Precision                 | F1        | Recall         | Accuracy                     | Precision                 | F1        | Recall         |
+| Test       |                               |                           | ****      |                |                              |                           | ****      |                |
+| Dev-Test   |                               |                           | ****      |                |                              |                           | ****      |                |
+
 
 ### Distillation Setup
 - Teacher: `LLaMA2-7B-hf`
