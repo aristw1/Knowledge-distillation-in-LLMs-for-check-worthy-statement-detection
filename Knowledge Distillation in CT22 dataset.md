@@ -13,17 +13,19 @@
 
 ### Student Evaluation Results                                        
 
-| Dataset   | Accuracy | Precision | F1 | Recall |                                                              
-|-----------|----------|----------|-----------|--------|              
-| Test  |  |     | ****    |   |              
-|  Dev-Test  |    |    | ****   |   | 
+| Dataset    |        Uncleaned Text         |                           |           |                |        Cleaned Text          |                           |           |                |
+|------------|-------------------------------|---------------------------|-----------|----------------|------------------------------|---------------------------|-----------|----------------|
+|            | Accuracy                      | Precision                 | F1        | Recall         | Accuracy                     | Precision                 | F1        | Recall         |
+| Test       |                               |                           | ****      |                |                              |                           | ****      |                |
+| Dev-Test   |                               |                           | ****      |                |                              |                           | ****      |                |
+
 
 ### performance of TinyLLaMa before knowledge distillation
-
-| Dataset   | Accuracy | Precision | F1 | Recall |                                                              
-|-----------|----------|----------|-----------|--------|              
-| Test  |  |    | ****    |   |              
-|  Dev-Test  |   |    | ****   |   | 
+| Dataset    |        Uncleaned Text         |                           |           |                |        Cleaned Text          |                           |           |                |
+|------------|-------------------------------|---------------------------|-----------|----------------|------------------------------|---------------------------|-----------|----------------|
+|            | Accuracy                      | Precision                 | F1        | Recall         | Accuracy                     | Precision                 | F1        | Recall         |
+| Test       |                               |                           | ****      |                |                              |                           | ****      |                |
+| Dev-Test   |                               |                           | ****      |                |                              |                           | ****      |                |
 
 
 
@@ -33,15 +35,19 @@
 
 ### Student Evaluation Results
 
-| Dataset   | Accuracy | Precision | F1 | Recall |
-|-----------|----------|----------|-----------|--------|
-| Test  |  |    | ****    |   |
-|  Dev-Test  |    |    | ****   |   |
+| Dataset    |        Uncleaned Text         |                           |           |                |        Cleaned Text          |                           |           |                |
+|------------|-------------------------------|---------------------------|-----------|----------------|------------------------------|---------------------------|-----------|----------------|
+|            | Accuracy                      | Precision                 | F1        | Recall         | Accuracy                     | Precision                 | F1        | Recall         |
+| Test       |                               |                           | ****      |                |                              |                           | ****      |                |
+| Dev-Test   |                               |                           | ****      |                |                              |                           | ****      |                |
+
 
 
 ### performance of phi2 before Knowledge distillation
 
-| Dataset   | Accuracy | Precision | F1 | Recall |
-|-----------|----------|----------|-----------|--------|
-| Test  |  |    | ****    |   |
-|  Dev-Test  |    |    | ****   |   |
+| Dataset    |        Uncleaned Text         |                           |           |                |        Cleaned Text          |                           |           |                |
+|------------|-------------------------------|---------------------------|-----------|----------------|------------------------------|---------------------------|-----------|----------------|
+|            | Accuracy                      | Precision                 | F1        | Recall         | Accuracy                     | Precision                 | F1        | Recall         |
+| Test       |                               |                           | ****      |                |                              |                           | ****      |                |
+| Dev-Test   |                               |                           | ****      |                |                              |                           | ****      |                |
+
