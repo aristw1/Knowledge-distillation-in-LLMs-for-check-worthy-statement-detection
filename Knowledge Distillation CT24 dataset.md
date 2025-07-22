@@ -33,7 +33,7 @@
 | Dataset   | Accuracy | Precision | F1 | Recall |
 |-----------|----------|----------|-----------|--------|
 | Test  |  0.8974|   0.8533 | **0.7853**    | 0.7273  |
-|  Dev-Test  |    |    | ****   |   |
+|  Dev-Test  | 0.9013   | 0.9003   | **0.8493**   |  0.7969 |
 
 
 ### performance of phi2 before Knowledge distillation
